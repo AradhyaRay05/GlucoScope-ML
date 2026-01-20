@@ -67,7 +67,7 @@ StartuPredict/
 ├── README.md                               # Project documentation
 ├── app.py                                  # Main Streamlit app
 ├── model.pkl                               # Trained MLR model
-├── scaler.pkl                       # Pre-fitted StandardScaler object for input normalization
+├── scaler.pkl                              # Pre-fitted StandardScaler object for input normalization
 ├── requirements.txt                        # Required dependencies
 └── Diabetes_Classification.ipynb           # Notebook for training and testing
 ```
